@@ -1,0 +1,21 @@
+CACHE MANIFEST
+
+
+CACHE:
+
+# html files
+
+
+# css files
+static/calc.css
+
+# images
+static/Sim-logo.png
+
+# js files
+static/calc.js
+
+FALLBACK:
+
+
+NETWORK:
